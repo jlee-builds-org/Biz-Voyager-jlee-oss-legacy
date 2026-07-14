@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-14T10:12:05.131514+00:00",
-  "consecutive_failures": 105,
+  "updated_at": "2026-07-14T11:46:53.021456+00:00",
+  "consecutive_failures": 106,
   "last_result": "failure",
   "hold_reason": "",
-  "run_url": "https://github.com/jlee-builds-org/Biz-Voyager-jlee-oss-legacy/actions/runs/29324480090",
+  "run_url": "https://github.com/jlee-builds-org/Biz-Voyager-jlee-oss-legacy/actions/runs/29330086895",
   "seeded_from": "local_validated_runtime_284"
 }
